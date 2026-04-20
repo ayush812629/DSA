@@ -1,12 +1,20 @@
-// Problem: Height of Binary Tree
+// Problem Statement:
+// Find the height (maximum depth) of a given binary tree.
 
-// Implement the solution for this problem.
+// Input Format:
+// - First line contains integer N
+// - Second line contains level-order traversal (-1 represents NULL)
 
+// Output Format:
+// - Print the height of the tree
+
+// Example:
 // Input:
-// - Input specifications
+// 7
+// 1 2 3 4 5 -1 -1
 
 // Output:
-// - Output specifications
+// 3
 
 #include <stdio.h>
 #include <stdlib.h>
